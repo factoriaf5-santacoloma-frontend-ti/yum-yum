@@ -6,8 +6,6 @@ Hoy comenzaremos un proyecto de maquetación de una web responsive y adaptativa.
 Trabajaremos utilizando la aproximación _mobile-first_ para obtener un sitio web _responsive_ y _adaptativo_.
 
 ## Objetivo
-
-## Objetivo
 Clonar la siguiente página:
 ### Mobile design
 
